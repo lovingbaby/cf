@@ -2,7 +2,7 @@
 const cfConfig = {
   cssBase:
     getElemById("contactform").src.split("/src")[0] ||
-    "https://cdn.jsdelivr.net/gh/cachecleanerjeet/contact-form@master",
+    "https://cdn.jsdelivr.net/gh/lovingbaby/cf@HEAD",
   error: {
     title: "Error",
     message:
